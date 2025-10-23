@@ -2,7 +2,7 @@
 
 ##TODO
 
-|---------------------|----------------------|---------------------------|
+
 |        thing        |        status        |        description        |
 |---------------------|----------------------|---------------------------|
 |  multi-item holding |            ?         | be able to hold multiple items + make the item system more intuitive |

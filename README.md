@@ -1,4 +1,7 @@
-# SuperTuxKart
+# SuperTuxKart Deluxe
+
+## The following is **COPIED** from the original SuperTuxKart repo and may be innacurate to SuperTuxKartDeluxe
+
 [![Linux build status](https://github.com/supertuxkart/stk-code/actions/workflows/linux.yml/badge.svg)](https://github.com/supertuxkart/stk-code/actions/workflows/linux.yml)
 [![Apple build status](https://github.com/supertuxkart/stk-code/actions/workflows/apple.yml/badge.svg)](https://github.com/supertuxkart/stk-code/actions/workflows/apple.yml)
 [![Windows build status](https://github.com/supertuxkart/stk-code/actions/workflows/windows.yml/badge.svg)](https://github.com/supertuxkart/stk-code/actions/workflows/windows.yml)

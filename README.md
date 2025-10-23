@@ -1,7 +1,15 @@
 # SuperTuxKart Deluxe
 
-## The following is **COPIED** from the original SuperTuxKart repo and may be innacurate to SuperTuxKartDeluxe
+##TODO
+---------------------------------
+| thing | status | description |
+---------------------------------
+| multi-item holding | ? | be able to hold multiple items + make the item system more intuitive |
+| rework some boost mechanics | ? | not sure what exactly I want here |
+---------------------------------
 
+## The following is **COPIED** from the original SuperTuxKart repo and may be innacurate to SuperTuxKartDeluxe
+## keeping this for future reference
 [![Linux build status](https://github.com/supertuxkart/stk-code/actions/workflows/linux.yml/badge.svg)](https://github.com/supertuxkart/stk-code/actions/workflows/linux.yml)
 [![Apple build status](https://github.com/supertuxkart/stk-code/actions/workflows/apple.yml/badge.svg)](https://github.com/supertuxkart/stk-code/actions/workflows/apple.yml)
 [![Windows build status](https://github.com/supertuxkart/stk-code/actions/workflows/windows.yml/badge.svg)](https://github.com/supertuxkart/stk-code/actions/workflows/windows.yml)
